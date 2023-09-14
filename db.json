@@ -1,0 +1,363 @@
+{
+    "shopProducts": [
+        {
+            "id": 1,
+            "title": "Wooden Tables",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 350,
+            "category": "table",
+            "date": "Mar 12, 2021",
+            "statue":"new",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "20 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": "../images/table/table1.jpg",
+            "tags": "Design, Furniture, table"
+        },
+        {
+            "id": 2,
+            "title": "COZY INTERIOR",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 150,
+            "category": "table",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "10 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/table/table3.jpg"
+            ],
+            "tags": "Design, Furniture, Table"
+        },
+        {
+            "id": 3,
+            "title": "MODERN DETAILS",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 500,
+            "category": "table",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "20 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown, white"
+                }
+            ],
+            "thumbnail": [
+                "../images/table/table4.jpg"
+            ],
+            "tags": "Design, Furniture, Table"
+        },
+        {
+            "id": 4,
+            "title": "SIMPLE & ELEGANT",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 1000,
+            "category": "table",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "40 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Black, white"
+                }
+            ],
+            "thumbnail": [
+                "../images/table/table5.jpg"
+            ],
+            "tags": "Design, Furniture, office"
+        },
+        {
+            "id": 5,
+            "title": "Round wooden",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 200,
+            "category": "table",
+            "date": "April 20, 2021",
+            "statue":"sale",
+            "stk": "on sale",
+            "additional": [
+                {
+                    "weight": "20 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/table/table6.jpg"
+            ],
+            "tags": "Design, Furniture"
+        },
+        {
+            "id": 6,
+            "title": "White Couch",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 100,
+            "category": "table",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "5 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/table/table7.jpg"
+            ],
+            "tags": "Design, Furniture"
+        },
+        {
+            "id": 7,
+            "title": "VINTAGE LOOK",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 700,
+            "category": "chair",
+            "date": "April 20, 2021",
+            "statue":"sold",
+            "stk": "coming soon",
+            "additional": [
+                {
+                    "weight": "10 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/chair/chair1.jpg"
+            ],
+            "tags": "Design, Furniture, Chair"
+        },
+        {
+            "id": 8,
+            "title": "Black LOOK",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 170,
+            "category": "chair",
+            "date": "April 20, 2021",
+            "statue":"new",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "8 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Black, white"
+                }
+            ],
+            "thumbnail": [
+                "../images/chair/chair2.jpg"
+            ],
+            "tags": "Design, Furniture, chair"
+        },
+        {
+            "id": 9,
+            "title": "Arm chairs",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 400,
+            "category": "chair",
+            "date": "April 20, 2021",
+            "statue":"sale",
+            "stk": "on sale",
+            "additional": [
+                {
+                    "weight": "10 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "gray, white"
+                }
+            ],
+            "thumbnail": [
+                "../images/chair/chair3.jpg"
+            ],
+            "tags": "Design, Furniture, chair"
+        },
+        {
+            "id": 10,
+            "title": "art LOOK",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 190,
+            "category": "chair",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "5 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/chair/chair4.jpg"
+            ],
+            "tags": "Design, Furniture, chair"
+        },
+        {
+            "id": 11,
+            "title": "blue & white",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 230,
+            "category": "chair",
+            "date": "April 20, 2021",
+            "statue":"sale",
+            "stk": "on sale",
+            "additional": [
+                {
+                    "weight": "30 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "blue, white"
+                }
+            ],
+            "thumbnail": [
+                "../images/chair/chair5.jpg"
+            ],
+            "tags": "Design, Furniture, chair"
+        },
+        {
+            "id": 12,
+            "title": "green couch",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 100,
+            "category": "sofa",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "20 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "green, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/sofa/sofa1.jpg"
+            ],
+            "tags": "Design, Furniture, sofa"
+        },
+        {
+            "id": 13,
+            "title": "blue couch",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "additional": [
+                {
+                    "weight": "80 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "blue, Brown"
+                }
+            ],
+            "price": 340,
+            "category": "sofa",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "thumbnail": [
+                "../images/sofa/sofa2.jpg"
+            ],
+            "tags": "Design, Furniture, sofa"
+        },
+        {
+            "id": 14,
+            "title": "white sofa",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 1300,
+            "category": "sofa",
+            "date": "April 20, 2021",
+            "statue":"",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "30 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/sofa/sofa4.jpg"
+            ],
+            "tags": "Design, Furniture, sofa"
+        },
+        {
+            "id": 15,
+            "title": "modern lights",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 500,
+            "category": "lamps",
+            "date": "April 20, 2021",
+            "statue":"",
+            "bestSell":"bestSell",
+            "stk": "in Stock",
+            "additional": [
+                {
+                    "weight": "5 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/lights/light4.jpg"
+            ],
+            "tags": "Design, Furniture, lamps"
+        },
+        {
+            "id": 16,
+            "title": "simple LOOK",
+            "subtitle": "interor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do    eiusmod tempor. ",
+            "price": 80,
+            "category": "lamps",
+            "date": "April 20, 2021",
+            "statue":"sale",
+            "stk": "on sale",
+            "additional": [
+                {
+                    "weight": "2 Kg",
+                    "dimension": "75 × 80 × 55 cm",
+                    "color": "Beige, Brown"
+                }
+            ],
+            "thumbnail": [
+                "../images/lights/light5.jpg"
+            ],
+            "tags": "Design, Furniture, lamps"
+        }
+    ],
+    "categories": [
+        "table",
+        "chair",
+        "sofa",
+        "lamps",
+        "vases",
+        "art"
+    ]
+}
