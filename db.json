@@ -17,7 +17,7 @@
                     "color": "Beige, Brown"
                 }
             ],
-            "thumbnail": "./images/table/table1.jpg",
+            "thumbnail": "/images/table/table1.jpg",
             "tags": "Design, Furniture, table"
         },
         {
@@ -38,7 +38,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/table/table3.jpg"
+                "/images/table/table3.jpg"
             ],
             "tags": "Design, Furniture, Table"
         },
@@ -60,7 +60,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/table/table4.jpg"
+                "/images/table/table4.jpg"
             ],
             "tags": "Design, Furniture, Table"
         },
@@ -82,7 +82,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/table/table5.jpg"
+                "/images/table/table5.jpg"
             ],
             "tags": "Design, Furniture, office"
         },
@@ -104,7 +104,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/table/table6.jpg"
+                "/images/table/table6.jpg"
             ],
             "tags": "Design, Furniture"
         },
@@ -126,7 +126,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/table/table7.jpg"
+                "/images/table/table7.jpg"
             ],
             "tags": "Design, Furniture"
         },
@@ -148,7 +148,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/chair/chair1.jpg"
+                "/images/chair/chair1.jpg"
             ],
             "tags": "Design, Furniture, Chair"
         },
@@ -170,7 +170,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/chair/chair2.jpg"
+                "/images/chair/chair2.jpg"
             ],
             "tags": "Design, Furniture, chair"
         },
@@ -192,7 +192,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/chair/chair3.jpg"
+                "/images/chair/chair3.jpg"
             ],
             "tags": "Design, Furniture, chair"
         },
@@ -214,7 +214,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/chair/chair4.jpg"
+                "/images/chair/chair4.jpg"
             ],
             "tags": "Design, Furniture, chair"
         },
@@ -236,7 +236,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/chair/chair5.jpg"
+                "/images/chair/chair5.jpg"
             ],
             "tags": "Design, Furniture, chair"
         },
@@ -258,7 +258,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/sofa/sofa1.jpg"
+                "/images/sofa/sofa1.jpg"
             ],
             "tags": "Design, Furniture, sofa"
         },
@@ -280,7 +280,7 @@
             "statue":"",
             "stk": "in Stock",
             "thumbnail": [
-                "./images/sofa/sofa2.jpg"
+                "/images/sofa/sofa2.jpg"
             ],
             "tags": "Design, Furniture, sofa"
         },
@@ -302,7 +302,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/sofa/sofa4.jpg"
+                "/images/sofa/sofa4.jpg"
             ],
             "tags": "Design, Furniture, sofa"
         },
@@ -325,7 +325,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/lights/light4.jpg"
+                "/images/lights/light4.jpg"
             ],
             "tags": "Design, Furniture, lamps"
         },
@@ -347,7 +347,7 @@
                 }
             ],
             "thumbnail": [
-                "./images/lights/light5.jpg"
+                "/images/lights/light5.jpg"
             ],
             "tags": "Design, Furniture, lamps"
         }
